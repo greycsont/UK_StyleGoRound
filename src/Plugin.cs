@@ -13,15 +13,14 @@ namespace StyleGoRound;
 public class Plugin : BaseUnityPlugin
 {
     private Harmony harmony;
-    internal static ManualLogSource Log;
     private void Awake()
     {
-        Log = base.Logger;
+        LogHelper.log = base.Logger;
         LoadMainModule();
         LoadOptionalModule();
 
         PatchHarmony(); 
-        Log.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
+        LogHelper.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
     }
 
     private void LoadMainModule()
