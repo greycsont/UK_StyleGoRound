@@ -9,7 +9,7 @@ Deal damage to enemies requires the S rank or higher
 ### Credits
 Tools used to process Icon:
 
-[nonebot-plugin-osugreek/4k希腊字母BG生成器](https://github.com/YakumoZn/nonebot-plugin-osugreek), used under MIT License
+[nonebot-plugin-osugreek](https://github.com/YakumoZn/nonebot-plugin-osugreek), used under MIT License
 
 [Sora's pixel converter](https://pixel-converter.ameniwa.com/), it don't have any special license name but it can be use in commercial and non-commercial as said in license part
 
