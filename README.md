@@ -1,12 +1,12 @@
-### Good bye,Style-Go-Round.
+## Good bye,Style-Go-Round.
 `manifest.json name: Package names can only contain a-z A-Z 0-9 _ characters`
 
-### What does it do?
+## What does it do?
 Deal damage to enemies requires the S rank or higher
 
 (A idea directly copied from DmC's Must Style)
 
-### Credits
+## Credits
 Tools used to process Icon:
 
 [nonebot-plugin-osugreek](https://github.com/YakumoZn/nonebot-plugin-osugreek), used under MIT License
@@ -27,7 +27,7 @@ Process:
 
 ![Image](https://github.com/greycsont/Only/raw/main/docs/ContactRecord.png)
 
-### Easter egg
+## Easter egg
 Name's reference : [Yooh - Good bye,Merry-Go-Round.](https://www.youtube.com/watch?v=JKVBwxBkC6k)
 
 ![Image](https://github.com/greycsont/Only/raw/main/docs/maimaiDXScore2.jpg)
