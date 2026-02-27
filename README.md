@@ -15,8 +15,6 @@ Tools used to process Icon:
 
 Process:
 
-![Image](https://github.com/greycsont/Only/raw/main/docs/ContactRecord.png)
-
 ![Image](https://github.com/greycsont/Only/raw/main/docs/OriginalIcon.png)
 
 ![Image](https://github.com/greycsont/Only/raw/main/docs/GreekIcon.png)
@@ -25,7 +23,7 @@ Process:
 
 ![Image](https://github.com/greycsont/Only/raw/main/docs/PixelProcess.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![Image](https://github.com/greycsont/Only/raw/main/docs/ContactRecord.png)
 
 ### Easter egg
 Name's reference : [Yooh - Good bye,Merry-Go-Round.](https://www.youtube.com/watch?v=JKVBwxBkC6k)
