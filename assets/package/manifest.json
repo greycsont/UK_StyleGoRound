@@ -1,6 +1,6 @@
 {
     "name": "Good_bye_Style_Go_Round",
-    "version_number": "0.0.2",
+    "version_number": "0.0.4",
     "website_url": "https://github.com/greycsont/UK_StyleGoRound",
     "description": "Deal damage to enemies requires the S rank or higher",
     "dependencies": [
