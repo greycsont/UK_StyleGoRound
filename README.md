@@ -13,6 +13,8 @@ Tools used to process Icon:
 
 [Sora's pixel converter](https://pixel-converter.ameniwa.com/), it don't have any special license name but it can be use in commercial and non-commercial as said in license part
 
+<br><br><br><br><br><br><br><br><br><br>
+
 Process:
 
 ![Image](https://github.com/greycsont/Only/raw/main/docs/OriginalIcon.png)
